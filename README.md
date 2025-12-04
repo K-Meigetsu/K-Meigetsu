@@ -1,6 +1,6 @@
 ## Hello Fans 👋
 
-<img align="right" alt="GIF" src="./main-cover-gif.gif" />
+<img align="right" alt="GIF" width=400 height=300 src="./main-cover-gif.gif" />
 
 ### I'm Konpeki Meigetsu (紺碧明月)
 
