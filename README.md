@@ -1,20 +1,20 @@
-## Hi there 👋
+## Hello Fans 👋
 
-<!--
-**K-Meigetsu/K-Meigetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="JPG" width=300 height=220 src="./main-cover.jpg" />
 
-Here are some ideas to get you started:
+### I'm Konpeki Meigetsu (紺碧明月)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m not actually a computer professional.
+- 🌱 I’m roughly from Japan.
+- 💬 If you need to contact me, please reach me via email [k.meigetsu@zohomail.com](mailto:k.meigetsu@zohomail.com) or TeleGram [Konpeki Meigetsu]().
 
-TEST GPG KEY  
+- ⚡ Fun fact: Data Analysis📊
 
-OH YES
+### 关于我
+- None
+
+> ***I’m a bit socially anxious—please bear with me! 😥***
+
+⭐️ From [K-Meigetsu](https://github.com/K-Meigetsu)
+
+The template is referenced from [JoeyBling](https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/JoeyBling.md)
