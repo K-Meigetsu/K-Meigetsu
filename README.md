@@ -5,7 +5,6 @@
 ### I'm Konpeki Meigetsu (紺碧明月)
 
 - I’m not actually a computer professional.
-- 🌱 I’m roughly from Japan.
 - 💬 If you need to contact me, please reach me via email: [k.meigetsu@zohomail.com](mailto:k.meigetsu@zohomail.com) or Telegram: [Konpeki Meigetsu]().
 
 
